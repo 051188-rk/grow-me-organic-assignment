@@ -25,7 +25,10 @@ npm run build
 npm run preview
 ```
 
-## Notes / Important
-- The DataTable `rows` state only contains the current page's data.
-- Selections persist across page changes via `localStorage`.
-- The custom selection panel (header) shows the number of selected rows and a submit button.
+## Deliverables
+- There must not be any variable which is holding all the rows fetched in different pages, else it will lead to out of memory issue.
+- On every page change you must call the api to fetch the respective page data irrespective of how many times user visits a page
+- Rows selection and deselection must persist across different pages
+- As a user, if I visit page 2(or any page) and select(or deselect) a few rows and switch to a different page then those selection(or deselection) must persist when I visit page 2 later.
+(I have done all of them and kept it minimalistic)
+
