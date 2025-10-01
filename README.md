@@ -1,6 +1,8 @@
 # GrowMeOrganic Private Limited
 ReactJS Development internship Assignment
 
+- DEPLOYED ON VERCEL: [https://grow-me-organic-assignment-lemon.vercel.app/](https://grow-me-organic-assignment-lemon.vercel.app/)
+
 ## i have used
 - API : [https://api.artic.edu/api/v1/artworks](https://api.artic.edu/api/v1/artworks)
 - COMPONENT: [https://primereact.org/datatable/](https://primereact.org/datatable/)
@@ -30,5 +32,5 @@ npm run preview
 - On every page change you must call the api to fetch the respective page data irrespective of how many times user visits a page
 - Rows selection and deselection must persist across different pages
 - As a user, if I visit page 2(or any page) and select(or deselect) a few rows and switch to a different page then those selection(or deselection) must persist when I visit page 2 later.
-(I have done all of them and kept it minimalistic)
+- I have done all of them and kept it minimalistic
 
