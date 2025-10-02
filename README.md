@@ -3,7 +3,7 @@ ReactJS Development internship Assignment
 
 - DEPLOYED ON VERCEL: [https://grow-me-organic-assignment-r.netlify.app/](https://grow-me-organic-assignment-r.netlify.app/)
 
-## i have used
+## Resources Used
 - API : [https://api.artic.edu/api/v1/artworks](https://api.artic.edu/api/v1/artworks)
 - COMPONENT: [https://primereact.org/datatable/](https://primereact.org/datatable/)
 
