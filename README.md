@@ -1,7 +1,7 @@
 # GrowMeOrganic Private Limited
 ReactJS Development internship Assignment
 
-- DEPLOYED ON VERCEL: [https://grow-me-organic-assignment-lemon.vercel.app/](https://grow-me-organic-assignment-lemon.vercel.app/)
+- DEPLOYED ON VERCEL: [https://grow-me-organic-assignment-r.netlify.app/](https://grow-me-organic-assignment-r.netlify.app/)
 
 ## i have used
 - API : [https://api.artic.edu/api/v1/artworks](https://api.artic.edu/api/v1/artworks)
